@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+html{
+width: 100vw;
+height: 100vh;
+font-size: 62.5%;
+overflow-x: hidden;
+}
+.menu{
+
+}
+.list-menu{
+    height: 70px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    padding-left: 30rem;
+
+
+}
